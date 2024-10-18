@@ -1,2 +1,3 @@
-# opendata101
-an introduciton to Open Data / 開放資料入門指南
+# Open Data 101
+
+一個關於開放資料的入門指南
